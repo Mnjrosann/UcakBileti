@@ -6,7 +6,9 @@ Kullanılacak Teknolojiler
 Görev Dağılımı (3 Kişi)
 Hocanız herkesin aktif rol almasını ve bunun raporda açıkça belirtilmesini istiyor. Ekibi şu şekilde bölebiliriz:
 TUANA (Backend & Etkileşimli Koltuklar): Veritabanı mimarisini kurma, PHP ile uçuş/koltuk verilerini çekme ve koltukların JavaScript ile tıklanabilir, etkileşimli hale getirilmesi senin sorumluluğunda olsun. Arka plan mantığını toparlamak ve veritabanıyla oynamak sana çok uygun
+
 MUSTAFA (Frontend & Kullanıcı Deneyimi): Sitenin vitrini onda. Hazır bir tema bulup onu PHP'ye entegre etme ve "Kullanıcı" katmanının tamamen çalışır durumda olmasını sağlamak onun görevi olsun.
+
 ALİ (Admin Paneli & Sistem Güvenliği): Uçuş ekleme, yorum onaylama gibi işlemler için "Yönetici" (admin) panelinin kodlanması. Güvenli giriş (login) sistemi ve Session tabanlı yetkilendirme işlemleri bu arkadaşta olsun.
 
 İlerleme Şeması (Zaman Çizelgesi)
